@@ -50,11 +50,7 @@ public class PR140Main {
                 }
             }
             System.out.println("|=====================================================|");
-        } catch(Exception e) {
-            // Imprimeix la pila d'errors en cas d'excepció
-            e.printStackTrace();
-        }
-        
+        } catch(Exception e) { e.printStackTrace(); }
 
     }
     
