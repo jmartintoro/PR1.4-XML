@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<biblioteca>
+    <llibre id="001">
+        <titol>Libro 001</titol>
+        <autor>Pakito Remolacha</autor>
+        <anyPublicacio>2028</anyPublicacio>
+        <editorial>Libros del Futuro</editorial>
+        <genere>Accio</genere>
+        <pagines>222</pagines>
+        <disponible>false</disponible>
+    </llibre>
+</biblioteca>
